@@ -186,12 +186,12 @@ http://localhost:8080/swagger-ui/index.html
 
 ---
 
-# 📷 Swagger
+## 📷 Documentação da API
 
-> Adicione aqui um print da documentação.
+A API possui documentação interativa gerada automaticamente com Swagger/OpenAPI.
 
 ```
-docs/swagger.png
+![Swagger UI](docs/swagger.png)
 ```
 
 ---
