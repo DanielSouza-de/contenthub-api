@@ -190,9 +190,7 @@ http://localhost:8080/swagger-ui/index.html
 
 A API possui documentação interativa gerada automaticamente com Swagger/OpenAPI.
 
-```
 ![Swagger UI](docs/swagger.png)
-```
 
 ---
 
